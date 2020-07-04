@@ -1,0 +1,247 @@
+{
+  "main": {
+    "name":"Dilkhush Mihirsen DHINESH KUMAR",
+    "occupation":"Research Analyst and Developer in the domain of Machine Learning",
+    "description":"I am a Information Technology undergrad having interest in the feild of Data Science, Machine Learning, Cloud Computing looking forward to integrate technologies with traditional practices.",
+    "image":"profilepic.jpg",
+    "bio":"A meticulous and organized individual strong in design and integration with intuitive problem-solving skills. Proficient in PYTHON, JAVA, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects in the domain of Data Science using frameworks such as REACT, FLASK and TENSORFLOW. Ability to translate business requirements into technical solutions. Skilled at developing reports, analyzing data, and identifying solutions through implementing the concepts of Machine Learning. Innovative, creative, and willing to contribute ideas and learn new things.",
+    "contactmessage":"Reach out to me hire me or connect with me.",
+    "email": "dilmihirdil123@gmail.com",
+    "phone": "+91-8675652510",
+    "address":{
+      "street":"S1, Mace Prayaghs, 148, 4th Main Road, VGP Selva Nagar, Velacherry",
+      "city":"Chennai",
+      "state":"Tamil Nadu",
+      "zip": "600042"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1lC0gSkJxLh7iqUh7J-N6jjKfj1Wazaz2/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/dilkhush.mihirsen",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/DilkhushMihirs1",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dilkhush-mihirsen-984a72141/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/dilmihir/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/dilmihir123",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/XzalpcQVHfk2",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Bachelor of Technology in Information Technology",
+        "degree":"Loyola-ICAM College of Engineering and Technology, Chennai, India.",
+        "graduated":"June 2016 - Present",
+        "description":"The importance of Information Technology in the making the soceity a better place to live and the importance of holistic formation were learnt. Held the positions of Sports and Cultural secretary leading the department to various victories. Recieved the best outgoing sportsperson award for representing the college in various State-level competitions. "
+      },
+      {
+        "school":"Higher Secondary School Education",
+        "degree":"AMM Matriculation Higher Seconadry School, Chennai, India",
+        "graduated":"June 2015 - May 2016",
+        "description":"Specialised the stream of Computer Science, Physics, Chemistry and Mathematics. Received the best outgoing sportsperson award for representing the school in various State-level competitions."
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Research Analyst and Developer - Machine Learning Intern",
+        "title":"Teknuance Info Solutions Private Limited, Chennai, India. ",
+        "years":"June 2020 - Present",
+        "description":"Yet to be confirmed"
+      },
+      {
+        "company":"Data Analyst Intern",
+        "title":"Aaum Research and Analytics Private Limited, Chennai, India.",
+        "years":"June 2020 - Present",
+        "description":"Developed a Machine Learning model using TensorFlow for Data Preprocessing and built dashboards to present the insights from the data."
+      },
+      {
+        "company":"Web Application Development Intern",
+        "title":"Kaar Technologies, Chennai, India.  ",
+        "years":"May 2019 - August 2019",
+        "description":"Developed a search box for all their products using Elastic Search Technique and AngularJs framework."
+      },
+      {
+        "company":"Assitant Project Manager",
+        "title":"ABC Springing Aqua Farms, Kayathar, India.",
+        "years":"September 2018 - March 2019",
+        "description":"Responsible for the establishment of a packaged water drinking plant right from the procurement of machinaries to their installation and a successful test run"
+      },
+      {
+        "company":"Student Intern",
+        "title":"ICAM, Nantes, France",
+        "years":"June 2018",
+        "description":"Design and fabrication of a windmill prototype and monitoring their performance using a smartphone."
+      }
+
+    ],
+    "skills":[
+      {
+        "name":"Machine Learning Frameworks",
+        "Frameworks":"TensorFlow, Spark MLlib, Scikit-learn, OpenCV"
+      },
+      {
+        "name":"Data Visulisation Tools",
+        "Frameworks":"Tableau, PowerBI, ThoughtSpot"
+      },
+      {
+        "name":"Cloud Platforms",
+        "Frameworks":"GCP, IBM Watson"
+      },
+      {
+        "name":"Javascipt Frameworks:",
+        "Frameworks":" AngularJs, ReactJs, NodeJs"
+      },
+      {
+        "name":"Python Frameworks",
+        "Frameworks":" Flask, Django"
+      },
+      {
+        "name":"Database Technology",
+        "Frameworks":" MySQL, MongoDB"
+      },
+      {
+        "name":"Java Frameworks",
+        "Frameworks":" Spring, Blade"
+      },
+      {
+        "name":"Basic Programming Languages",
+        "Frameworks":"C, C++, C#"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Foodintory",
+        "category":"A time series analysis project to regulate the supply chain in restaurants using TensorFlow, ReactJs and Flask.",
+        "image":"Food.PNG",
+        "url":"https://github.com/dilmihir123/Optimised_food_inventory"
+      },
+      {
+        "title":"DocWiz",
+        "category":"A web app using ReactJs, Flask was built for disease diagnosis and treatment suggestion using Data Analytics.",
+        "image":"Select_Disease.PNG",
+        "url":"https://github.com/dilmihir123/DocWiz"
+      },
+      {
+        "title":"LogiNet",
+        "category":"An intelligent logistic network building Application using K-Means clustering.",
+        "image":"LogisticNetwork.PNG",
+        "url":""
+      },
+      {
+        "title":"ElasticSearch",
+        "category":"A search box using the elastic search technique and AngularJs",
+        "image":"elastick.PNG",
+        "url":"https://github.com/dilmihir123/ElasticSearch"
+      },
+      {
+        "title":"ProbCam",
+        "category":"An android application using the TensorFlow that is used to identify the object being scanned.",
+        "image":"ProbCam.PNG",
+        "url":"https://github.com/dilmihir123/Probcam"
+      },
+      {
+        "title":"Smart Windmill",
+        "category":"Design and fabrication of a windmill prototype and monitoring their performance using a smartphone.",
+        "image":"Smart.PNG",
+        "url":"https://github.com/dilmihir123/Probcam"
+      }
+    ]
+  },
+  "certification":{
+    "certification": [
+       {
+        "title":"TensorFlow in Practice",
+        "category":"",
+        "image":"TF.PNG",
+        "url":"https://www.coursera.org/account/accomplishments/specialization/V6FFRMDY7B4P"
+      },
+      {
+        "title":"Supply Chain Management",
+        "category":"",
+        "image":"SupplyChain.PNG",
+        "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/VE5UTE8E9LQN"
+      },
+      {
+        "title":"Computer Vision with OpenCV",
+        "category":"",
+        "image":"Computer Vision.PNG",
+        "url":"https://udemy-certificate.s3.amazonaws.com/pdf/UC-IN611G0O.pdf"
+      },
+      {
+        "title":"Architecting with Google Cloud Platform",
+        "category":"",
+        "image":"GCP.PNG",
+        "url":"https://www.coursera.org/account/accomplishments/specialization/certificate/WDAHHWS7GMR8"
+      },
+      {
+        "title":"Architecting with Google Kubernetes Engine",
+        "category":"",
+        "image":"Kubernetes.PNG",
+        "url":"https://www.coursera.org/account/accomplishments/specialization/MD7HQ8RGXEL2"
+      },
+      {
+        "title":"PowerBI",
+        "category":"",
+        "image":"PowerBI.PNG",
+        "url":"https://www.guvi.in/certificate?id=o3Vu53618HB9758dJ3&download=true"
+      },
+      {
+        "title":"National Conference on Emerging Trends in Intelligence Computing",
+        "category":"",
+        "image":"AIHT_DocWiz.PNG",
+        "url":"https://drive.google.com/file/d/1wTksfa_CXAHIDSfO13xN2dmHM4OK7GkB/view?usp=sharing"
+      },
+      {
+        "title":"AI and Data Sience",
+        "category":"",
+        "image":"IEEE_DS_and_AI.PNG",
+        "url":"https://drive.google.com/file/d/1rh8YvvyJovXo6TY1QA6HYSkMp7M6R090/view?usp=sharing"
+      },
+      {
+        "title":"DELF A2",
+        "category":"",
+        "image":"Dilkhush_DELF_A2.PNG",
+        "url":"https://drive.google.com/file/d/1V0kFEf29HGilW7C9FCnG4cStUws1gOjW/view?usp=sharing"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
